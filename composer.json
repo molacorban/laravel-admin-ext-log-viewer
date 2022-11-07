@@ -1,5 +1,5 @@
 {
-    "name": "igorhaf/laravel-admin-ext-log-viewer",
+    "name": "molacorban/laravel-admin-ext-log-viewer",
     "description": "Log viewer for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "log", "viewer"],
@@ -12,8 +12,8 @@
         },
         {
 
-            "name": "igorhaf",
-            "email": "igorhaf@gmail.com"
+            "name": "molacorban",
+            "email": "andre.smolianinoff@molacorban.com.br"
         }
     ],
     "require": {
